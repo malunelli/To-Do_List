@@ -19,14 +19,6 @@ O objetivo desse projeto é criar uma aplicação de **To-Do List** onde o usuá
 - **Visualização:** Exibição das tarefas em uma lista organizada.
 - **Filtragem:** O usuário pode filtrar as tarefas por "concluídas" ou "pendentes".
 
-## Cronograma de Desenvolvimento
-
-- **Dia 1:** Planejamento do projeto e criação do repositório no GitHub.
-- **Dia 2 e 3:** Desenvolvimento da interface do usuário (HTML/CSS) e estruturação do layout.
-- **Dia 4:** Implementação das funcionalidades básicas com JavaScript (adicionar, editar e excluir tarefas).
-- **Dia 5:** Implementação da funcionalidade de marcar tarefas como concluídas e adicionar filtragem.
-- **Dia 6:** Testes do aplicativo e ajuste de bugs.
-- **Dia 7:** Documentação do projeto e finalização da apresentação.
 
 ## Tecnologias Utilizadas
 
