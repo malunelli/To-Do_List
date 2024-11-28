@@ -25,8 +25,3 @@ O objetivo deste projeto é desenvolver uma **To-Do List** simples, onde o usuá
 
 O **Git** ajudou a manter o projeto organizado e a versão do código sob controle. O fluxo de trabalho incluiu o uso de **branches** para funcionalidades específicas e **commits** frequentes para registrar as alterações.
 
----
-
-Essa é a estrutura básica que você precisa para o seu projeto. Quando terminar, adicione todos os arquivos ao Git e faça o commit para enviar tudo para o repositório no GitHub.
-
-Se precisar de mais detalhes ou ajuda em alguma parte, estou à disposição!
